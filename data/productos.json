@@ -46,7 +46,7 @@
         "nombre": "Global Flow Control",
         "descripcion": "Medición y gestión eficiente del ordeño.",
         "imagen": "/img/tecnologia/global-flow-control-rodeg.webp",
-        "url": "/productos/ordeno/sistemas-y-repuestos/global-flow-control/index.html"
+        "url": "/productos/ordeno/sistemas-y-repuestos/global-flow-control/"
     },
     {
         "id": "ordenadora-dtp",
@@ -144,7 +144,7 @@
         "nombre": "Pezoneras de repuesto",
         "descripcion": "Mantenimiento clave para tu equipo.",
         "imagen": "https://images.unsplash.com/photo-1570525997233-a3d548ddfdd2?w=500&q=80",
-        "url": "/productos/ordeno/sistemas-y-repuestos/pezoneras/index.html"
+        "url": "/productos/ordeno/sistemas-y-repuestos/pezoneras/"
     },
     {
         "id": "enfriadores-de-leche",
@@ -158,21 +158,21 @@
         "nombre": "Recuperadores de calor",
         "descripcion": "Aprovechamiento total de energía.",
         "imagen": "https://images.unsplash.com/photo-1570525997233-a3d548ddfdd2?w=500&q=80",
-        "url": "/productos/enfriadores-de-leche/#recuperadores"
+        "url": "/productos/enfriadores-de-leche/recuperadores-de-calor/"
     },
     {
         "id": "mangueras-y-tubos",
         "nombre": "Mangueras y tubos",
         "descripcion": "Sistemas de lavado y conducción láctea.",
         "imagen": "https://images.unsplash.com/photo-1592982537447-6f233c706ba3?w=500&q=80",
-        "url": "/productos/ordeno/sistemas-y-repuestos/mangueras-y-tubos/index.html"
+        "url": "/productos/ordeno/sistemas-y-repuestos/mangueras-y-tubos/"
     },
     {
         "id": "comando-frio-lavado",
         "nombre": "Comando de frío y lavado por PLC",
         "descripcion": "Gestión automatizada para tanques.",
         "imagen": "https://images.unsplash.com/photo-1570525997233-a3d548ddfdd2?w=500&q=80",
-        "url": "/productos/enfriadores-de-leche/comando"
+        "url": "/productos/enfriadores-de-leche/comando-de-frio-y-lavado-automatico/"
     },
     {
         "id": "brazos-m18",
@@ -214,7 +214,7 @@
         "nombre": "Enfriador tipo cisterna",
         "descripcion": "Soluciones para grandes volúmenes.",
         "imagen": "https://images.unsplash.com/photo-1596733430284-f7437764b1a9?w=500&q=80",
-        "url": "/productos/enfriadores-de-leche/cisterna/"
+        "url": "/productos/enfriadores-de-leche/enfriador-cisterna/"
     },
     {
         "id": "cubas",
@@ -228,14 +228,14 @@
         "nombre": "Ventiladores para establos",
         "descripcion": "Línea de fabricación RODEG.",
         "imagen": "https://images.unsplash.com/photo-1592982537447-6f233c706ba3?w=500&q=80",
-        "url": "/productos/confort-animal/"
+        "url": "/productos/confort-animal/r-fan/"
     },
     {
         "id": "sistemas-antiestres",
         "nombre": "Sistemas antiestrés",
         "descripcion": "Aspersión y nebulización.",
         "imagen": "https://images.unsplash.com/photo-1596733430284-f7437764b1a9?w=500&q=80",
-        "url": "/productos/confort-animal/"
+        "url": "/productos/confort-animal/sistemas-antiestres/"
     },
     {
         "id": "taxi-milk",
