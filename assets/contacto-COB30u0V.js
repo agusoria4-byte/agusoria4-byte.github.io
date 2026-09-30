@@ -1,0 +1,1 @@
+import"./global-ClirL_lq.js";/* empty css             */console.log(`Página de contacto cargada correctamente.`);

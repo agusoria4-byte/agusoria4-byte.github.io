@@ -1,1 +1,0 @@
-import"./global-8BSDCG5R.js";console.log(`Página de contacto cargada correctamente.`);
