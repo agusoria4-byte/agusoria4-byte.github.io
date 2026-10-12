@@ -143,21 +143,21 @@
         "id": "pezoneras-repuesto",
         "nombre": "Pezoneras de repuesto",
         "descripcion": "Mantenimiento clave para tu equipo.",
-        "imagen": "https://images.unsplash.com/photo-1570525997233-a3d548ddfdd2?w=500&q=80",
+        "imagen": "/img/soluciones/ordeno/pezoneras/pezoneras-rodeg.webp",
         "url": "/productos/ordeno/sistemas-y-repuestos/pezoneras/"
     },
     {
         "id": "enfriadores-de-leche",
         "nombre": "Enfriadores de leche",
         "descripcion": "Almacenamiento seguro y térmico.",
-        "imagen": "https://images.unsplash.com/photo-1592982537447-6f233c706ba3?w=500&q=80",
+        "imagen": "/img/soluciones/enfriadores-de-leche/cisterna/cisterna-1.webp",
         "url": "/productos/enfriadores-de-leche/"
     },
     {
         "id": "recuperadores-de-calor",
         "nombre": "Recuperadores de calor",
         "descripcion": "Aprovechamiento total de energía.",
-        "imagen": "https://images.unsplash.com/photo-1570525997233-a3d548ddfdd2?w=500&q=80",
+        "imagen": "/img/soluciones/enfriadores-de-leche/recuperadores/recuperadores-de-calor-1.webp",
         "url": "/productos/enfriadores-de-leche/recuperador-de-calor/"
     },
     {
@@ -171,7 +171,7 @@
         "id": "comando-frio-lavado",
         "nombre": "Comando de frío y lavado por PLC",
         "descripcion": "Gestión automatizada para tanques.",
-        "imagen": "https://images.unsplash.com/photo-1570525997233-a3d548ddfdd2?w=500&q=80",
+        "imagen": "/img/soluciones/enfriadores-de-leche/comando-plc/sistema-de-comando-de-frio-y-lavado-automatico-1.webp",
         "url": "/productos/enfriadores-de-leche/comando-de-frio-y-lavado-automatico/"
     },
     {
@@ -213,7 +213,7 @@
         "id": "enfriador-cisterna",
         "nombre": "Enfriador tipo cisterna",
         "descripcion": "Soluciones para grandes volúmenes.",
-        "imagen": "https://images.unsplash.com/photo-1596733430284-f7437764b1a9?w=500&q=80",
+        "imagen": "/img/soluciones/enfriadores-de-leche/cisterna/cisterna-1.webp",
         "url": "/productos/enfriadores-de-leche/enfriador-cisterna/"
     },
     {
@@ -262,7 +262,7 @@
         "id": "pezoneras",
         "nombre": "Pezoneras",
         "descripcion": "Repuestos originales para cada línea de colector.",
-        "imagen": "https://images.unsplash.com/photo-1570525997233-a3d548ddfdd2?w=500&q=80",
+        "imagen": "/img/soluciones/ordeno/pezoneras/pezoneras.webp",
         "url": "/productos/ordeno/sistemas-y-repuestos/pezoneras/"
     },
     {
@@ -353,7 +353,7 @@
         "id": "sistema-de-frio-rapido",
         "nombre": "Sistema de enfriamiento instantáneo",
         "descripcion": "La leche empieza a enfriarse apenas sale de la vaca, no cuando llega al tanque.",
-        "imagen": "https://images.unsplash.com/photo-1544383835-bca2bc6f555c?w=1200&q=80",
+        "imagen": "/img/soluciones/enfriadores-de-leche/frio-instantaneo/sistema-de-frio-instantaneo-1.webp",
         "url": "/productos/enfriadores-de-leche/sistema-de-frio-instantaneo/"
     },
     {
@@ -374,7 +374,7 @@
         "id": "tipo-cisterna",
         "nombre": "Enfriador tipo cisterna",
         "descripcion": "Máxima capacidad y frío absoluto para proteger tus grandes volúmenes de producción.",
-        "imagen": "https://images.unsplash.com/photo-1544383835-bca2bc6f555c?w=1200&q=80",
+        "imagen": "/img/soluciones/enfriadores-de-leche/cisterna/cisterna-1.webp",
         "url": "/productos/enfriadores-de-leche/enfriador-cisterna/"
     }
 ]
