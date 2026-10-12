@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Panel de administración del blog y funciones internas: no indexar
+Disallow: /actualidad/admin/
+Disallow: /.netlify/
+
+Sitemap: https://rodeg.com.ar/sitemap.xml

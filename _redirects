@@ -1,1 +1,10 @@
+# Direcciones viejas con .html -> direcciones limpias
+/categorias.html  /categorias/  301
+/contacto.html    /contacto/    301
+/nosotros.html    /nosotros/    301
+
+# Smart Ear Tag se mudó a Ordeño > Sistemas y repuestos
+/productos/nuevas-tecnologias/smart-ear-tag    /productos/ordeno/sistemas-y-repuestos/smart-ear-tag/  301
+/productos/nuevas-tecnologias/smart-ear-tag/*  /productos/ordeno/sistemas-y-repuestos/smart-ear-tag/  301
+
 /actualidad/*  https://astonishing-creponne-cba6db.netlify.app/:splat  200!
