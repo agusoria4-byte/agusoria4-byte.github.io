@@ -11,7 +11,8 @@
         "nombre": "Bretes para cabras y ovejas",
         "descripcion": "Infraestructura diseñada a medida para ordeño.",
         "imagen": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=500&q=80",
-        "url": "/productos/bretes/cabras-y-ovejas/"
+        "url": "/productos/bretes/cabras-y-ovejas/",
+        "proximamente": true
     },
     {
         "id": "pulsador-rg3",
@@ -136,15 +137,8 @@
         "id": "salas-rotativas",
         "nombre": "Sala rotativa",
         "descripcion": "Más vacas por hora, con menos personal.",
-        "imagen": "/img/tecnologia/sala-rotativa.webp",
+        "imagen": "/img/soluciones/ordeno/sala-rotativa/sala-rotativa-rodeg-1.webp",
         "url": "/productos/ordeno/equipos-completos/sala-rotativa/"
-    },
-    {
-        "id": "pezoneras-repuesto",
-        "nombre": "Pezoneras de repuesto",
-        "descripcion": "Mantenimiento clave para tu equipo.",
-        "imagen": "/img/soluciones/ordeno/pezoneras/pezoneras-rodeg.webp",
-        "url": "/productos/ordeno/sistemas-y-repuestos/pezoneras/"
     },
     {
         "id": "enfriadores-de-leche",
@@ -256,7 +250,8 @@
         "nombre": "Bretes salida rápida",
         "descripcion": "Menos tiempo de espera entre tandas de ordeñe.",
         "imagen": "https://images.unsplash.com/photo-1596733430284-f7437764b1a9?w=1200&q=80",
-        "url": "/productos/bretes/salida-rapida/"
+        "url": "/productos/bretes/salida-rapida/",
+        "proximamente": true
     },
     {
         "id": "pezoneras",
@@ -347,7 +342,8 @@
         "nombre": "Corrales de espera",
         "descripcion": "Entrada fluida y organizada del rodeo antes de ingresar al ordeñe.",
         "imagen": "https://images.unsplash.com/photo-1596733430284-f7437764b1a9?w=1200&q=80",
-        "url": "/productos/manejo-y-corrales-de-rodeo/corrales-de-espera/"
+        "url": "/productos/manejo-y-corrales-de-rodeo/corrales-de-espera/",
+        "proximamente": true
     },
     {
         "id": "sistema-de-frio-rapido",
@@ -376,5 +372,66 @@
         "descripcion": "Máxima capacidad y frío absoluto para proteger tus grandes volúmenes de producción.",
         "imagen": "/img/soluciones/enfriadores-de-leche/cisterna/cisterna-1.webp",
         "url": "/productos/enfriadores-de-leche/enfriador-cisterna/"
+    },
+    {
+        "id": "bretes-a-la-par",
+        "nombre": "Bretes a la par",
+        "descripcion": "Solución ideal para rodeos chicos.",
+        "imagen": "",
+        "url": "/productos/bretes/a-la-par/",
+        "proximamente": true
+    },
+    {
+        "id": "bretes-espina-vertical",
+        "nombre": "Bretes espina vertical",
+        "descripcion": "Mayor capacidad de ordeñe por tanda.",
+        "imagen": "",
+        "url": "/productos/bretes/espina-vertical/",
+        "proximamente": true
+    },
+    {
+        "id": "bretes-autoportantes",
+        "nombre": "Bretes autoportantes",
+        "descripcion": "Piso 100% libre de obstáculos.",
+        "imagen": "/img/soluciones/bretes/autoportantes/autoportantes-1.webp",
+        "url": "/productos/bretes/lado-por-lado/autoportante/"
+    },
+    {
+        "id": "chapon-anti-bosteo",
+        "nombre": "Chapón anti-bosteo",
+        "descripcion": "Sala más limpia en cada ordeño.",
+        "imagen": "/img/soluciones/bretes/chapon-antibosteo/chapon-antibosteo-1.webp",
+        "url": "/productos/bretes/chapon-anti-bosteo/"
+    },
+    {
+        "id": "corrales-circulares",
+        "nombre": "Corrales circulares",
+        "descripcion": "Arreo ordenado hacia la sala.",
+        "imagen": "",
+        "url": "/productos/manejo-y-corrales-de-rodeo/corrales-circulares/",
+        "proximamente": true
+    },
+    {
+        "id": "corrales-perimetrales",
+        "nombre": "Corrales perimetrales",
+        "descripcion": "Delimitación firme del rodeo.",
+        "imagen": "",
+        "url": "/productos/manejo-y-corrales-de-rodeo/corrales-perimetrales/",
+        "proximamente": true
+    },
+    {
+        "id": "tranqueras-arreadoras",
+        "nombre": "Tranqueras arreadoras",
+        "descripcion": "Arreo tranquilo y sin esfuerzo.",
+        "imagen": "/img/soluciones/manejo-y-corrales/tranqueras-automaticas/tranqueras-automaticas-1.webp",
+        "url": "/productos/manejo-y-corrales-de-rodeo/tranqueras-arreadoras/"
+    },
+    {
+        "id": "pisos-de-goma",
+        "nombre": "Pisos de goma",
+        "descripcion": "Confort y seguridad al caminar.",
+        "imagen": "",
+        "url": "/contacto/",
+        "proximamente": true
     }
 ]
