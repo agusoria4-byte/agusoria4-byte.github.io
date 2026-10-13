@@ -1,4 +1,4 @@
-import"./global-BSAmNu9C.js";var e=`/actualidad/destacados.json`,t=`/img/hero/actualidad-rodeg.webp`,n=(e=``)=>String(e).replace(/[&<>"']/g,e=>({"&":`&amp;`,"<":`&lt;`,">":`&gt;`,'"':`&quot;`,"'":`&#39;`})[e]),r=e=>{let[t,n,r]=String(e).slice(0,10).split(`-`);return t&&n&&r?`${r}.${n}.${t}`:``};function i(e){return`
+import"./global-SScF6Mvb.js";var e=`/actualidad/destacados.json`,t=`/img/hero/actualidad-rodeg.webp`,n=(e=``)=>String(e).replace(/[&<>"']/g,e=>({"&":`&amp;`,"<":`&lt;`,">":`&gt;`,'"':`&quot;`,"'":`&#39;`})[e]),r=e=>{let[t,n,r]=String(e).slice(0,10).split(`-`);return t&&n&&r?`${r}.${n}.${t}`:``};function i(e){return`
         <article class="noticia-card${e.destacado?` es-destacada`:``}">
             <a href="${n(e.url)}" class="noticia-img" tabindex="-1" aria-hidden="true" style="--fondo: url('${n(e.imagen||t)}')">
                 <img src="${n(e.imagen||t)}" alt="" loading="lazy">

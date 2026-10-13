@@ -73,7 +73,7 @@
         "id": "mp-2700",
         "nombre": "Ordeñadora MP 2700",
         "descripcion": "Alta eficiencia para establecimientos de línea media.",
-        "imagen": "/img/tecnologia/sala-rotativa.webp",
+        "imagen": "/img/soluciones/ordeno/mp2700/mp2700.webp",
         "url": "/productos/ordeno/equipos-completos/mp2700/"
     },
     {
@@ -134,10 +134,10 @@
     },
     {
         "id": "salas-rotativas",
-        "nombre": "Salas rotativas",
-        "descripcion": "Alta capacidad de ordeño.",
-        "imagen": "/img/soluciones/ordeno/millenium-magna/millenium-magna-portada.webp",
-        "url": "/productos/ordeno/equipos-completos/"
+        "nombre": "Sala rotativa",
+        "descripcion": "Más vacas por hora, con menos personal.",
+        "imagen": "/img/tecnologia/sala-rotativa.webp",
+        "url": "/productos/ordeno/equipos-completos/sala-rotativa/"
     },
     {
         "id": "pezoneras-repuesto",
