@@ -234,7 +234,7 @@
         "id": "sistemas-antiestres",
         "nombre": "Sistemas antiestrés",
         "descripcion": "Aspersión y nebulización.",
-        "imagen": "https://images.unsplash.com/photo-1596733430284-f7437764b1a9?w=500&q=80",
+        "imagen": "/img/soluciones/confort-animal/sistema-antiestres-rodeg.webp",
         "url": "/productos/confort-animal/sistema-antiestres/"
     },
     {
@@ -269,7 +269,7 @@
         "id": "taxi-manual",
         "nombre": "Taxi Milk Manual",
         "descripcion": "La leche a temperatura ideal para tus terneros, al alcance de cualquier tambo.",
-        "imagen": "https://images.unsplash.com/photo-1570525997233-a3d548ddfdd2?w=1200&q=80",
+        "imagen": "/img/soluciones/alimentacion-terneros/taxi-milk-arrastre-manual-electrico-2.webp",
         "url": "/productos/alimentacion-terneros/taxi-manual/"
     },
     {
@@ -283,49 +283,49 @@
         "id": "taxi-arrastre",
         "nombre": "Taxi Milk de arrastre",
         "descripcion": "Cubrí grandes distancias en tu guachera sin hacer el mínimo esfuerzo.",
-        "imagen": "https://images.unsplash.com/photo-1596733430284-f7437764b1a9?w=1200&q=80",
+        "imagen": "/img/soluciones/alimentacion-terneros/alimentacion-de-terneros-de-arrastre-electrico-rodeg-portada.webp",
         "url": "/productos/alimentacion-terneros/taxi-arrastre/"
     },
     {
         "id": "carros-de-transporte-de-leche",
         "nombre": "Carros de transporte de leche",
         "descripcion": "Logística a gran escala: trasladá miles de litros a la guachera con total rapidez y máxima sanidad.",
-        "imagen": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=1200&q=80",
+        "imagen": "/img/soluciones/alimentacion-terneros/carro-de-transporte-portada.webp",
         "url": "/productos/alimentacion-terneros/carros-de-transporte-de-leche/"
     },
     {
         "id": "sistema-de-dosificacion-de-leche",
         "nombre": "Sistema de dosificación de leche",
         "descripcion": "Nutrición sin desperdicios: la porción exacta para la cría de terneros.",
-        "imagen": "https://images.unsplash.com/photo-1592982537447-6f233c706ba3?w=1200&q=80",
+        "imagen": "/img/soluciones/alimentacion-terneros/sistema-de-dosificacion-de-leche-1.webp",
         "url": "/productos/alimentacion-terneros/sistema-de-dosificacion-de-leche/"
     },
     {
         "id": "racionadores-manuales",
         "nombre": "Racionadores manuales",
         "descripcion": "La solución práctica para racionar en tambos de pequeña escala.",
-        "imagen": "https://images.unsplash.com/photo-1544383835-bca2bc6f555c?w=1200&q=80",
+        "imagen": "/img/soluciones/alimentacion-ordeno/racionadores-manuales-1.webp",
         "url": "/productos/alimentacion-ordeno/racionadores-manuales/"
     },
     {
         "id": "sistema-de-llenado-y-dosificacion-automatica",
         "nombre": "Sistema de llenado y dosificación automática de alimentos",
         "descripcion": "Nutrición de precisión: Cada vaca recibe la ración justa, sin que nadie tenga que estar pendiente.",
-        "imagen": "https://images.unsplash.com/photo-1544383835-bca2bc6f555c?w=1200&q=80",
+        "imagen": "/img/soluciones/alimentacion-ordeno/sistema-de-llenado-y-dosificacion-automatica-de-alimentos-1-portada.webp",
         "url": "/productos/alimentacion-ordeno/sistema-de-llenado-dosificacion-automatica-de-alimentos/"
     },
     {
         "id": "pasteurizador-tina",
         "nombre": "Pasteurizador de tina",
         "descripcion": "Pasteurización segura y práctica para el tambo.",
-        "imagen": "https://images.unsplash.com/photo-1581092795360-fd1ca04f0952?w=500&q=80",
+        "imagen": "/img/soluciones/pasteurizadores/pasteurizador-tina-electrico.webp",
         "url": "/productos/pasteurizadores/tina/"
     },
     {
         "id": "pasteurizador-placas",
         "nombre": "Pasteurizador a placas",
         "descripcion": "Pasteurización a gran escala, automática o semiautomática.",
-        "imagen": "https://images.unsplash.com/photo-1581092795360-fd1ca04f0952?w=500&q=80",
+        "imagen": "/img/soluciones/pasteurizadores/pasteurizador-de-tina-automatico-portada.webp",
         "url": "/productos/pasteurizadores/placas/"
     },
     {
